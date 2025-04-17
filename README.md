@@ -1,4 +1,3 @@
-# IndependentStudy_2025
 
 
 ## 📚 Dataset Source and Scope
@@ -16,14 +15,13 @@ The dataset is collected from a comprehensive academic database **Scopus**. The 
 
 ## 📊 Dataset Summary
 
-| Metric                  | Count / Value         |
-|-------------------------|-----------------------|
-| **Total Documents**     | 79,324                |
-| **Type of Documents**    | 12                   |
-| **Source Type**         | Journal               |
-| **Number of Journal Types**  | 160              |
-| **Time Range**          | 1863 – 2025           |
-
+| Metric                         | Value           |
+|-------------------------------|------------------|
+| **Total Documents**           | 79,324           |
+| **Document Types**            | 12 (e.g., Article, Review, Note, etc.) |
+| **Source Type**               | Journal only     |
+| **Number of Unique Journals** | 160              |
+| **Time Coverage**             | 1863 – 2025      |
 
 ---
 
