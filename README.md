@@ -1,13 +1,5 @@
 # IndependentStudy_2025
 
-# Economics Journal Dataset Overview
-
-This dataset contains metadata and counts for a curated collection of economic journals spanning over 160 years. It is intended for use in bibliometric analysis, topic modeling, trend tracking, and other forms of economic literature research.
-
-
-# Economics Journal Dataset Overview
-
-This dataset contains metadata and counts for a curated collection of economic journals spanning over 160 years. It is intended for use in bibliometric analysis, topic modeling, trend tracking, and other forms of economic literature research.
 
 ## 📚 Dataset Source and Scope
 
